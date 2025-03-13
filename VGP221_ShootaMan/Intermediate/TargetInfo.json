@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "VGP221_ShootaMan",
+			"Path": "..\\Source\\VGP221_ShootaMan.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "VGP221_ShootaManEditor",
+			"Path": "..\\Source\\VGP221_ShootaManEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

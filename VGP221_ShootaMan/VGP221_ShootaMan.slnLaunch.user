@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "Intermediate\\ProjectFiles\\VGP221_ShootaMan.vcxproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\..\\..\\..\\Program Files\\Epic Games\\UE_5.4\\Engine\\Source\\Programs\\UnrealBuildTool\\UnrealBuildTool.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

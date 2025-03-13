@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\VGP221_ShootaMan.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VGP221_ShootaMan.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\VGP221_ShootaManEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\.vsconfig" />
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\VGP221_ShootaMan">
+      <UniqueIdentifier>{342E8433-6E0E-3773-9E7D-BAE58DFD360A}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\VGP221_ShootaMan\VGP221_ShootaMan.Build.cs">
+      <Filter>Source\VGP221_ShootaMan</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\VGP221_ShootaMan.cpp">
+      <Filter>Source\VGP221_ShootaMan</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\VGP221_ShootaMan.h">
+      <Filter>Source\VGP221_ShootaMan</Filter>
+    </ClInclude>
+    <Filter Include="Source\VGP221_ShootaMan\Bullets">
+      <UniqueIdentifier>{25CEDFBE-947F-3741-B208-154743893057}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\Bullets\Bullet.cpp">
+      <Filter>Source\VGP221_ShootaMan\Bullets</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\Bullets\Bullet.h">
+      <Filter>Source\VGP221_ShootaMan\Bullets</Filter>
+    </ClInclude>
+    <Filter Include="Source\VGP221_ShootaMan\Collectables">
+      <UniqueIdentifier>{145B99EE-57C8-36AE-8002-33982D084B9C}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\Collectables\PickUp.cpp">
+      <Filter>Source\VGP221_ShootaMan\Collectables</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\Collectables\PickUp.h">
+      <Filter>Source\VGP221_ShootaMan\Collectables</Filter>
+    </ClInclude>
+    <Filter Include="Source\VGP221_ShootaMan\Components">
+      <UniqueIdentifier>{C05282BB-99CD-3766-98B8-C0170DEAD269}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\Components\HealthComponent.cpp">
+      <Filter>Source\VGP221_ShootaMan\Components</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\Components\HealthComponent.h">
+      <Filter>Source\VGP221_ShootaMan\Components</Filter>
+    </ClInclude>
+    <Filter Include="Source\VGP221_ShootaMan\Enemies">
+      <UniqueIdentifier>{E4EFE654-CBB3-33C3-996C-80BD66DC81DB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\Enemies\BTT_Attack.cpp">
+      <Filter>Source\VGP221_ShootaMan\Enemies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\Enemies\BTT_Attack.h">
+      <Filter>Source\VGP221_ShootaMan\Enemies</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\Enemies\BTT_GetRandomLocation.cpp">
+      <Filter>Source\VGP221_ShootaMan\Enemies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\Enemies\BTT_GetRandomLocation.h">
+      <Filter>Source\VGP221_ShootaMan\Enemies</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\Enemies\EnemyAICharacter.cpp">
+      <Filter>Source\VGP221_ShootaMan\Enemies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\Enemies\EnemyAICharacter.h">
+      <Filter>Source\VGP221_ShootaMan\Enemies</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\Enemies\EnemyAIController.cpp">
+      <Filter>Source\VGP221_ShootaMan\Enemies</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\Enemies\EnemyAIController.h">
+      <Filter>Source\VGP221_ShootaMan\Enemies</Filter>
+    </ClInclude>
+    <Filter Include="Source\VGP221_ShootaMan\GUI">
+      <UniqueIdentifier>{BF33DB66-FA7E-397F-9D7D-3AFA9A891133}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\GUI\ButtonWidget.cpp">
+      <Filter>Source\VGP221_ShootaMan\GUI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\GUI\ButtonWidget.h">
+      <Filter>Source\VGP221_ShootaMan\GUI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\GUI\PlayerUserWidget.cpp">
+      <Filter>Source\VGP221_ShootaMan\GUI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\GUI\PlayerUserWidget.h">
+      <Filter>Source\VGP221_ShootaMan\GUI</Filter>
+    </ClInclude>
+    <Filter Include="Source\VGP221_ShootaMan\HUD">
+      <UniqueIdentifier>{884B5FC0-EA6B-30AF-8893-D61E31095633}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\HUD\ShootaManHUD.cpp">
+      <Filter>Source\VGP221_ShootaMan\HUD</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\HUD\ShootaManHUD.h">
+      <Filter>Source\VGP221_ShootaMan\HUD</Filter>
+    </ClInclude>
+    <Filter Include="Source\VGP221_ShootaMan\Player">
+      <UniqueIdentifier>{BEBE5AF7-2C1C-36B9-A02B-DDB669AE1550}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\Player\PlayerGameMode.cpp">
+      <Filter>Source\VGP221_ShootaMan\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\Player\PlayerGameMode.h">
+      <Filter>Source\VGP221_ShootaMan\Player</Filter>
+    </ClInclude>
+    <Filter Include="Source\VGP221_ShootaMan\Private">
+      <UniqueIdentifier>{DBA7BA55-18E9-3773-AE8F-005C1251524F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\Private\PlayerCharacter.cpp">
+      <Filter>Source\VGP221_ShootaMan\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\VGP221_ShootaMan\Public">
+      <UniqueIdentifier>{32B0FD4D-8202-3FED-905C-247228CDBD83}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\Public\PlayerCharacter.h">
+      <Filter>Source\VGP221_ShootaMan\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
