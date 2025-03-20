@@ -17,11 +17,11 @@ struct FHitResult;
 #endif
 #define VGP221_SHOOTAMAN_Bullet_generated_h
 
-#define FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+#define FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
 	DECLARE_FUNCTION(execOnHit);
 
 
-#define FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_INCLASS_NO_PURE_DECLS \
+#define FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesABullet(); \
 	friend struct Z_Construct_UClass_ABullet_Statics; \
@@ -30,7 +30,7 @@ public: \
 	DECLARE_SERIALIZER(ABullet)
 
 
-#define FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_ENHANCED_CONSTRUCTORS \
+#define FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 	/** Private move- and copy-constructors, should never be used */ \
 	ABullet(ABullet&&); \
@@ -42,13 +42,13 @@ public: \
 	NO_API virtual ~ABullet();
 
 
-#define FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_13_PROLOG
-#define FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_GENERATED_BODY \
+#define FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_13_PROLOG
+#define FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
-	FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_INCLASS_NO_PURE_DECLS \
-	FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_ENHANCED_CONSTRUCTORS \
+	FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_RPC_WRAPPERS_NO_PURE_DECLS \
+	FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_INCLASS_NO_PURE_DECLS \
+	FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h_16_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -56,7 +56,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> VGP221_SHOOTAMAN_API UClass* StaticClass<class ABullet>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h
+#define CURRENT_FILE_ID FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Bullets_Bullet_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS

@@ -11,6 +11,8 @@ APlayerCharacter::APlayerCharacter()
     Camera->SetupAttachment(RootComponent);
     Camera->bUsePawnControlRotation = true;
 
+    Camera->SetRelativeLocation(FVector(0.f, 0.f, 70.f)); 
+
     // WeaponSocket Location
     WeaponSocketOffset.Set(115.f, 20.f, 0.f);
 
@@ -62,7 +64,16 @@ void APlayerCharacter::BeginPlay()
 {
     Super::BeginPlay();
 
+    // Get the current game mode
+    APlayerGameMode* GameMode = Cast<APlayerGameMode>(UGameplayStatics::GetGameMode(GetWorld()));
 
+    if (GameMode)
+    {
+        UE_LOG(LogTemp, Warning, TEXT("Successfully accessed PlayerGameMode"));
+
+        // Optionally, you could set any default game mode values or perform other actions
+        // GameMode->SomeFunction();
+    }
 
 
 }

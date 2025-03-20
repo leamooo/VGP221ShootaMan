@@ -1,8 +1,8 @@
 {
 	"SourceFiles": [
-		"C:\\Users\\maxbr\\Desktop\\VGP221_ShootaMan\\Source\\VGP221_ShootaMan\\VGP221_ShootaMan.Build.cs",
-		"C:\\Users\\maxbr\\Desktop\\VGP221_ShootaMan\\Source\\VGP221_ShootaMan.Target.cs",
-		"C:\\Users\\maxbr\\Desktop\\VGP221_ShootaMan\\Source\\VGP221_ShootaManEditor.Target.cs"
+		"C:\\Users\\maxbr\\Documents\\VGP221ShootaMan\\VGP221_ShootaMan\\Source\\VGP221_ShootaMan\\VGP221_ShootaMan.Build.cs",
+		"C:\\Users\\maxbr\\Documents\\VGP221ShootaMan\\VGP221_ShootaMan\\Source\\VGP221_ShootaMan.Target.cs",
+		"C:\\Users\\maxbr\\Documents\\VGP221ShootaMan\\VGP221_ShootaMan\\Source\\VGP221_ShootaManEditor.Target.cs"
 	],
 	"EngineVersion": "5.4.4"
 }

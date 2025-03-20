@@ -12,6 +12,7 @@
       <Filter>Source</Filter>
     </None>
     <None Include="..\..\.vsconfig" />
+    <None Include="..\..\VGP221_ShootaMan.slnLaunch.user" />
     <Filter Include="Config">
       <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
     </Filter>
@@ -111,6 +112,12 @@
     <Filter Include="Source\VGP221_ShootaMan\HUD">
       <UniqueIdentifier>{884B5FC0-EA6B-30AF-8893-D61E31095633}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\HUD\MainMenuWidget.cpp">
+      <Filter>Source\VGP221_ShootaMan\HUD</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\HUD\MainMenuWidget.h">
+      <Filter>Source\VGP221_ShootaMan\HUD</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\VGP221_ShootaMan\HUD\ShootaManHUD.cpp">
       <Filter>Source\VGP221_ShootaMan\HUD</Filter>
     </ClCompile>
@@ -120,6 +127,18 @@
     <Filter Include="Source\VGP221_ShootaMan\Player">
       <UniqueIdentifier>{BEBE5AF7-2C1C-36B9-A02B-DDB669AE1550}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\Player\MainMenuGameMode.cpp">
+      <Filter>Source\VGP221_ShootaMan\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\Player\MainMenuGameMode.h">
+      <Filter>Source\VGP221_ShootaMan\Player</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\VGP221_ShootaMan\Player\MainMenuPlayerController.cpp">
+      <Filter>Source\VGP221_ShootaMan\Player</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\VGP221_ShootaMan\Player\MainMenuPlayerController.h">
+      <Filter>Source\VGP221_ShootaMan\Player</Filter>
+    </ClInclude>
     <ClCompile Include="..\..\Source\VGP221_ShootaMan\Player\PlayerGameMode.cpp">
       <Filter>Source\VGP221_ShootaMan\Player</Filter>
     </ClCompile>

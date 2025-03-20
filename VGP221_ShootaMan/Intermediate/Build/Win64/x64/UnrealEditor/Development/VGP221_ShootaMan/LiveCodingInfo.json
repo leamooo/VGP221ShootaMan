@@ -1,5 +1,39 @@
 {
 	"RemapUnityFiles": 
 	{
+		"Module.VGP221_ShootaMan.cpp.obj": [
+			"Bullet.cpp.obj",
+			"PickUp.cpp.obj",
+			"HealthComponent.cpp.obj",
+			"BTT_Attack.cpp.obj",
+			"BTT_GetRandomLocation.cpp.obj",
+			"EnemyAICharacter.cpp.obj",
+			"EnemyAIController.cpp.obj",
+			"ButtonWidget.cpp.obj",
+			"PlayerUserWidget.cpp.obj",
+			"ShootaManHUD.cpp.obj",
+			"PlayerGameMode.cpp.obj",
+			"VGP221_ShootaMan.cpp.obj",
+			"BTT_Attack.gen.cpp.obj",
+			"BTT_GetRandomLocation.gen.cpp.obj",
+			"Bullet.gen.cpp.obj",
+			"ButtonWidget.gen.cpp.obj",
+			"EnemyAICharacter.gen.cpp.obj",
+			"EnemyAIController.gen.cpp.obj",
+			"HealthComponent.gen.cpp.obj",
+			"MainMenuGameMode.gen.cpp.obj",
+			"MainMenuPlayerController.gen.cpp.obj",
+			"MainMenuWidget.gen.cpp.obj",
+			"PickUp.gen.cpp.obj",
+			"PlayerCharacter.gen.cpp.obj",
+			"PlayerGameMode.gen.cpp.obj",
+			"PlayerUserWidget.gen.cpp.obj",
+			"ShootaManHUD.gen.cpp.obj",
+			"VGP221_ShootaMan.init.gen.cpp.obj",
+			"MainMenuWidget.cpp.obj",
+			"MainMenuGameMode.cpp.obj",
+			"MainMenuPlayerController.cpp.obj",
+			"PlayerCharacter.cpp.obj"
+		]
 	}
 }

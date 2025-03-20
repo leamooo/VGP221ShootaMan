@@ -1,7 +1,7 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\maxbr\\Desktop\\VGP221_ShootaMan\\Intermediate\\Build\\BuildRulesProjects\\VGP221_ShootaManModuleRules\\VGP221_ShootaManModuleRules.csproj": {}
+    "C:\\Users\\maxbr\\Documents\\VGP221ShootaMan\\VGP221_ShootaMan\\Intermediate\\Build\\BuildRulesProjects\\VGP221_ShootaManModuleRules\\VGP221_ShootaManModuleRules.csproj": {}
   },
   "projects": {
     "C:\\Program Files\\Epic Games\\UE_5.4\\Engine\\Intermediate\\Build\\BuildRulesProjects\\UE5ProgramRules\\UE5ProgramRules.csproj": {
@@ -1118,14 +1118,14 @@
         }
       }
     },
-    "C:\\Users\\maxbr\\Desktop\\VGP221_ShootaMan\\Intermediate\\Build\\BuildRulesProjects\\VGP221_ShootaManModuleRules\\VGP221_ShootaManModuleRules.csproj": {
+    "C:\\Users\\maxbr\\Documents\\VGP221ShootaMan\\VGP221_ShootaMan\\Intermediate\\Build\\BuildRulesProjects\\VGP221_ShootaManModuleRules\\VGP221_ShootaManModuleRules.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\maxbr\\Desktop\\VGP221_ShootaMan\\Intermediate\\Build\\BuildRulesProjects\\VGP221_ShootaManModuleRules\\VGP221_ShootaManModuleRules.csproj",
+        "projectUniqueName": "C:\\Users\\maxbr\\Documents\\VGP221ShootaMan\\VGP221_ShootaMan\\Intermediate\\Build\\BuildRulesProjects\\VGP221_ShootaManModuleRules\\VGP221_ShootaManModuleRules.csproj",
         "projectName": "VGP221_ShootaManModuleRules",
-        "projectPath": "C:\\Users\\maxbr\\Desktop\\VGP221_ShootaMan\\Intermediate\\Build\\BuildRulesProjects\\VGP221_ShootaManModuleRules\\VGP221_ShootaManModuleRules.csproj",
+        "projectPath": "C:\\Users\\maxbr\\Documents\\VGP221ShootaMan\\VGP221_ShootaMan\\Intermediate\\Build\\BuildRulesProjects\\VGP221_ShootaManModuleRules\\VGP221_ShootaManModuleRules.csproj",
         "packagesPath": "C:\\Users\\maxbr\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\maxbr\\Desktop\\VGP221_ShootaMan\\Intermediate\\Build\\BuildRulesProjects\\VGP221_ShootaManModuleRules\\obj\\",
+        "outputPath": "C:\\Users\\maxbr\\Documents\\VGP221ShootaMan\\VGP221_ShootaMan\\Intermediate\\Build\\BuildRulesProjects\\VGP221_ShootaManModuleRules\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

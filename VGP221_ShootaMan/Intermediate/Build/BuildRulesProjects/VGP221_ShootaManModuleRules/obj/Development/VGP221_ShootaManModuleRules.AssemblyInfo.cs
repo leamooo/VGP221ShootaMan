@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VGP221_ShootaManModuleRules")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Development")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9c37e513e6e39d73e83159a31a51c428df45127")]
 [assembly: System.Reflection.AssemblyProductAttribute("VGP221_ShootaManModuleRules")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VGP221_ShootaManModuleRules")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

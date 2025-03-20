@@ -1,11 +1,11 @@
-"C:\Users\maxbr\Desktop\VGP221_ShootaMan\Intermediate\Build\Win64\UnrealEditor\Inc\VGP221_ShootaMan\UHT\PlayerUserWidget.gen.cpp"
-/FI"C:\Users\maxbr\Desktop\VGP221_ShootaMan\Intermediate\Build\Win64\x64\VGP221_ShootaManEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/FI"C:\Users\maxbr\Desktop\VGP221_ShootaMan\Intermediate\Build\Win64\x64\UnrealEditor\Development\VGP221_ShootaMan\Definitions.VGP221_ShootaMan.h"
-/Yu"C:\Users\maxbr\Desktop\VGP221_ShootaMan\Intermediate\Build\Win64\x64\VGP221_ShootaManEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
-/Fp"C:\Users\maxbr\Desktop\VGP221_ShootaMan\Intermediate\Build\Win64\x64\VGP221_ShootaManEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
-/Fo"C:\Users\maxbr\Desktop\VGP221_ShootaMan\Intermediate\Build\Win64\x64\UnrealEditor\Development\VGP221_ShootaMan\PlayerUserWidget.gen.cpp.obj"
-/sourceDependencies "C:\Users\maxbr\Desktop\VGP221_ShootaMan\Intermediate\Build\Win64\x64\UnrealEditor\Development\VGP221_ShootaMan\PlayerUserWidget.gen.cpp.dep.json"
-@"C:\Users\maxbr\Desktop\VGP221_ShootaMan\Intermediate\Build\Win64\x64\UnrealEditor\Development\VGP221_ShootaMan\VGP221_ShootaMan.Shared.rsp"
+"C:\Users\maxbr\Documents\VGP221ShootaMan\VGP221_ShootaMan\Intermediate\Build\Win64\UnrealEditor\Inc\VGP221_ShootaMan\UHT\PlayerUserWidget.gen.cpp"
+/FI"C:\Users\maxbr\Documents\VGP221ShootaMan\VGP221_ShootaMan\Intermediate\Build\Win64\x64\VGP221_ShootaManEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/FI"C:\Users\maxbr\Documents\VGP221ShootaMan\VGP221_ShootaMan\Intermediate\Build\Win64\x64\UnrealEditor\Development\VGP221_ShootaMan\Definitions.VGP221_ShootaMan.h"
+/Yu"C:\Users\maxbr\Documents\VGP221ShootaMan\VGP221_ShootaMan\Intermediate\Build\Win64\x64\VGP221_ShootaManEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h"
+/Fp"C:\Users\maxbr\Documents\VGP221ShootaMan\VGP221_ShootaMan\Intermediate\Build\Win64\x64\VGP221_ShootaManEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.pch"
+/Fo"C:\Users\maxbr\Documents\VGP221ShootaMan\VGP221_ShootaMan\Intermediate\Build\Win64\x64\UnrealEditor\Development\VGP221_ShootaMan\PlayerUserWidget.gen.cpp.obj"
+/sourceDependencies "C:\Users\maxbr\Documents\VGP221ShootaMan\VGP221_ShootaMan\Intermediate\Build\Win64\x64\UnrealEditor\Development\VGP221_ShootaMan\PlayerUserWidget.gen.cpp.dep.json"
+@"C:\Users\maxbr\Documents\VGP221ShootaMan\VGP221_ShootaMan\Intermediate\Build\Win64\x64\UnrealEditor\Development\VGP221_ShootaMan\VGP221_ShootaMan.Shared.rsp"
 /Zc:inline
 /nologo
 /Oi

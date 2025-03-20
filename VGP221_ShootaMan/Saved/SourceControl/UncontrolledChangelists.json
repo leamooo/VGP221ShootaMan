@@ -6,7 +6,17 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/maxbr/Desktop/VGP221_ShootaMan/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
-				"C:/Users/maxbr/Documents/VGP221ShootaMan/VGP221_ShootaMan/Content/Maps/ShootaManLevel.umap"
+				"C:/Users/maxbr/Documents/VGP221ShootaMan/VGP221_ShootaMan/Content/Maps/ShootaManLevel.umap",
+				"C:/Users/maxbr/Documents/VGP221ShootaMan/VGP221_ShootaMan/Content/Blueprints/Collectables/BP_PickUp.uasset",
+				"C:/Users/maxbr/Documents/VGP221ShootaMan/VGP221_ShootaMan/Content/Blueprints/Player/BP_PlayerCharacter.uasset",
+				"C:/Users/maxbr/Documents/VGP221ShootaMan/VGP221_ShootaMan/Content/Blueprints/Bullet/BP_Bullet.uasset",
+				"C:/Users/maxbr/Documents/VGP221ShootaMan/VGP221_ShootaMan/Content/Maps/MainMenu.umap",
+				"C:/Users/maxbr/Documents/VGP221ShootaMan/VGP221_ShootaMan/Content/Blueprints/HUD/BP_MainMenuWidget.uasset",
+				"C:/Users/maxbr/Documents/VGP221ShootaMan/VGP221_ShootaMan/Content/Blueprints/Player/BP_PlayerGameMode.uasset",
+				"C:/Users/maxbr/Documents/VGP221ShootaMan/VGP221_ShootaMan/Content/Blueprints/Player/BP_MainMenuPlayerController.uasset",
+				"C:/Users/maxbr/Documents/VGP221ShootaMan/VGP221_ShootaMan/Content/Blueprints/Player/BP_MainMenuGameMode.uasset",
+				"C:/Users/maxbr/Documents/VGP221ShootaMan/VGP221_ShootaMan/Content/Blueprints/Player/BP_MainMenuGameMode.uasset",
+				"C:/Users/maxbr/Documents/VGP221ShootaMan/VGP221_ShootaMan/Content/Blueprints/GUI/BP_MainMenuWidget.uasset"
 			]
 		}
 	]

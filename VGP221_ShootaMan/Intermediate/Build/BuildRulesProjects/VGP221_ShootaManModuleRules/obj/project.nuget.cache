@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QIdwvjsnzcI=",
+  "dgSpecHash": "gLl13/8FHw8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\maxbr\\Desktop\\VGP221_ShootaMan\\Intermediate\\Build\\BuildRulesProjects\\VGP221_ShootaManModuleRules\\VGP221_ShootaManModuleRules.csproj",
+  "projectFilePath": "C:\\Users\\maxbr\\Documents\\VGP221ShootaMan\\VGP221_ShootaMan\\Intermediate\\Build\\BuildRulesProjects\\VGP221_ShootaManModuleRules\\VGP221_ShootaManModuleRules.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\maxbr\\.nuget\\packages\\bitfaster.caching\\2.4.1\\bitfaster.caching.2.4.1.nupkg.sha512",
     "C:\\Users\\maxbr\\.nuget\\packages\\blake3\\0.5.1\\blake3.0.5.1.nupkg.sha512",

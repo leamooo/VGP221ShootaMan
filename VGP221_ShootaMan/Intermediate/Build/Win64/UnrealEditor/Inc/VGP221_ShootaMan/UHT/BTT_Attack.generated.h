@@ -14,7 +14,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define VGP221_SHOOTAMAN_BTT_Attack_generated_h
 
-#define FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h_19_INCLASS_NO_PURE_DECLS \
+#define FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h_19_INCLASS_NO_PURE_DECLS \
 private: \
 	static void StaticRegisterNativesUBTT_Attack(); \
 	friend struct Z_Construct_UClass_UBTT_Attack_Statics; \
@@ -23,7 +23,7 @@ public: \
 	DECLARE_SERIALIZER(UBTT_Attack)
 
 
-#define FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h_19_ENHANCED_CONSTRUCTORS \
+#define FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h_19_ENHANCED_CONSTRUCTORS \
 	/** Standard constructor, called after all reflected properties have been initialized */ \
 	NO_API UBTT_Attack(const FObjectInitializer& ObjectInitializer = FObjectInitializer::Get()); \
 private: \
@@ -37,12 +37,12 @@ public: \
 	NO_API virtual ~UBTT_Attack();
 
 
-#define FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h_16_PROLOG
-#define FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h_19_GENERATED_BODY \
+#define FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h_16_PROLOG
+#define FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h_19_GENERATED_BODY \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
-	FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h_19_INCLASS_NO_PURE_DECLS \
-	FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h_19_ENHANCED_CONSTRUCTORS \
+	FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h_19_INCLASS_NO_PURE_DECLS \
+	FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h_19_ENHANCED_CONSTRUCTORS \
 private: \
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
 
@@ -50,7 +50,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 template<> VGP221_SHOOTAMAN_API UClass* StaticClass<class UBTT_Attack>();
 
 #undef CURRENT_FILE_ID
-#define CURRENT_FILE_ID FID_Users_maxbr_Desktop_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h
+#define CURRENT_FILE_ID FID_Users_maxbr_Documents_VGP221ShootaMan_VGP221_ShootaMan_Source_VGP221_ShootaMan_Enemies_BTT_Attack_h
 
 
 PRAGMA_ENABLE_DEPRECATION_WARNINGS
